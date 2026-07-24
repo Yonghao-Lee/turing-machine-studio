@@ -3,6 +3,8 @@
 An interactive **Turing machine** simulator — watch the tape, head, and state animate as a machine
 runs, load famous machines, or write your own transition table.
 
+![Busy Beaver (3-state) running in Turing Machine Studio](docs/turing-machine-studio.gif)
+
 > **Live demo:** https://chicoryman.com/turing-machine-studio/
 
 ## Features
