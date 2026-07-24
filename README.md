@@ -3,7 +3,7 @@
 An interactive **Turing machine** simulator — watch the tape, head, and state animate as a machine
 runs, load famous machines, or write your own transition table.
 
-> **Live demo:** _add your GitHub Pages / site URL here_
+> **Live demo:** https://chicoryman.com/turing-machine-studio/
 
 ## Features
 - **Animated tape** with a moving head and live state, step counter, and halt status.
